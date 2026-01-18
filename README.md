@@ -1,9 +1,16 @@
+<h1 align="center">Hi 👋, I'm Akshat</h1>
+
+<p align="center">
+  <b>B.Tech CSE Student • Full-Stack Developer</b>
+</p>
+
+<hr/>
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=AkshvtE&label=Profile%20Views&color=blue&style=flat)
-
-
 # 💫 About Me
 
-👋 Hi, I’m **Akshat** — a B.Tech CSE student learning full-stack development by building real-world projects.<br><br>
+🎧 A B.Tech CSE student learning full-stack development by building real-world projects.<br><br>
 
 🛠️ Currently working on **full-stack web apps & SaaS-style dashboards** with a focus on clean UI and scalable systems.<br><br>
 
