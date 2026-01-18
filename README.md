@@ -9,7 +9,7 @@
 🤝 Open to collaborating on **full-stack projects, open-source work, and product-focused ideas**.<br><br>
 
 📬 Reach me at: **akshatsingh9102003@gmail.com**<br>
-🌐 Checkout my  **[Portfolio:](https://akshvt.vercel.app/)m**<br>
+🌐 Checkout my  **[Portfolio:](https://akshvt.vercel.app/)**<br>
 📄 Learn about my experience: **[Resume](https://drive.google.com/file/d/1tQneCEwwmaqbmkwDJYIL3SZa9leH6VLm/view?usp=drivesdk)**<br><br>
 
 
