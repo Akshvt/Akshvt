@@ -8,7 +8,7 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AkshvtE&label=Profile%20Views&color=blue&style=flat)
-# 💫 About Me abcd
+# 💫 About Me
 
 🎧 A B.Tech CSE student learning full-stack development by building real-world projects.<br><br>
 
