@@ -20,7 +20,7 @@
 
 📬 Reach me at: **akshatsingh9102003@gmail.com**<br>
 🌐 Checkout my  **[Portfolio:](https://akshvt.vercel.app/)**<br>
-📄 Learn about my experience: **[Resume](https://drive.google.com/file/d/1tQneCEwwmaqbmkwDJYIL3SZa9leH6VLm/view?usp=drivesdk)**<br><br>
+📄 Learn about my experience: **[Resume](https://drive.google.com/file/d/1SAxHbnDeLvtk9cZmZrqWqyRQictj-wzc/view?usp=sharing)**<br><br>
 
 
 ## 🌐 Socials:
